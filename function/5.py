@@ -1,3 +1,5 @@
+#阶乘
+
 def factorial(n):
     #return n>1 ? n*factorial(n-1): 1
     if n>1 :
