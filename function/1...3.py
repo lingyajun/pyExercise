@@ -6,7 +6,7 @@ def maxNumbers(*nums):
             maxNum = n
     return maxNum
 
-#print(maxNumbers(7,8,9))
+print(maxNumbers(7,8,9))
 
 #2.
 def sumNumbers(*nums):
@@ -16,7 +16,7 @@ def sumNumbers(*nums):
     return sum
 
 data = (8, 2, 3, 0, 7)
-#print(sumNumbers(*data))
+print(sumNumbers(*data))
 
 #3.
 def multiplyNumbers(*nums):
